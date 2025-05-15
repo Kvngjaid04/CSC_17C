@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run current C++ file (MSVC)",
+        "type": "cppvsdbg",
+        "request": "launch",
+        "program": "${fileDir}\\${fileBasenameNoExtension}.exe",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${fileDir}",
+        "environment": [],
+        "console": "externalTerminal"
+      }
+    ]
+  }
+  
