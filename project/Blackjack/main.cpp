@@ -1,4 +1,5 @@
-/* Author: Ireoluwa 
+/*
+ *  Author: Ireoluwa 
 * Created on October 29, 2024, 12:19 PM 
 * modified for csc_17_c 
 * Date:    May 2, 2024 
@@ -71,6 +72,7 @@ struct Save {
 enum Suit {HEART, DIAM, SPADE, CLUB}; 
 const int SIZE = 52;                // Deck size 
 stack<int> btHstry;           //to track betting history
+
 
 //Function Prototypes 
 void init(vector<Card>&, int&);        // Initialize deck using vector
