@@ -1,0 +1,14 @@
+How does the compare to Hashing?
+	Hashing performs better than binary trees with AVL balancing based on the code and math analysis
+
+
+
+
+
+
+
+
+
+
+
+

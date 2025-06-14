@@ -1,0 +1,10 @@
+Compare table output values to input
+
+What do you see? 
+	The number of function calls increases rapidly as the input angle moves away from zero. This growth shows a pattern that closely matches Fibonacci numbers.
+and why?
+	This happens because the algorithm recalculates the same intermediate values over and over without storing them.
+
+What does Theory say about recursions?
+	Recursive algorithms without memorization that have overlapping subproblems exhibit exponential time complexity, and when each call branches into two subcalls, the growth pattern naturally follows the Fibonacci sequence where F(n) = F(n-1) + F(n-2).
+	

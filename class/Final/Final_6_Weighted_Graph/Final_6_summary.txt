@@ -1,0 +1,22 @@
+Does the hand analysis agree with program?
+
+The physical calculation and program match up:
+
+a) Find the shortest distance between ORD and LAX.
+	ORD → DFW → LAX
+
+b) Find the shortest distance between JFK and SFO.
+	JFK → ORD → SFO 
+
+c) Find the minimum spanning tree.
+	Minimum Spanning Tree Edges:
+		JFK - BOS: 189
+		SFO - LAX: 338
+		ORD - JFK: 743
+		ORD - DFW: 803
+		JFK - MIA: 1093
+		LAX - DFW: 1234
+
+Total Minimum Spanning Tree Weight: 4400
+
+

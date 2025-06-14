@@ -1,0 +1,5 @@
+What is the new BigO of Selection Sort?
+	O(np)
+
+Does the size of p change the analysis? How does this compare to Merge?
+	Yes, the size of p changes the analysis. Merge sort becomes more efficient than selection as p increases

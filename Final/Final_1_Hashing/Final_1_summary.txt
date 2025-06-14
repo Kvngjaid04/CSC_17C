@@ -1,0 +1,3 @@
+Does it compare to Theory?
+Max value and distribution.
+Yes, it compares well to theory. The distribution of elements matches the mathematical calculation. The maximum number of collisions also aligns with the theoretical maximum calculated 
